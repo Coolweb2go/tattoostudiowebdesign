@@ -4,8 +4,7 @@ layout: page
 
 
 {% for post in site.posts %}
-{% for cat in post.categories %}
-{% if cat == page.category %}
+ 
 
 
 
@@ -23,7 +22,8 @@ layout: page
  {{ post.excerpt | strip_html | truncate:200}}
   </div>
 </div>
-{% endif %}
-{% endfor %}
+ 
 
 {% endfor %}
+
+ 
