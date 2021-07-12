@@ -11,8 +11,8 @@ email: webdesigner2go@zohomail.com
 description: Web Development/SEO/Digital Marketing
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: tattoostudioweb
-github_username:  tattoostudioweb
+facebook_username: tattoostudioweb
+instagram_username:  tattoostudioweb
 paginate: 5
 theme-dark: false #Set to true to change to dark website theme
 

@@ -1,0 +1,25 @@
+---
+layout: page
+title: Sitemap
+permalink: /sitemap/
+tagline: "Sitemap Posts"
+---
+ 
+<div class="py-4">
+{% for post in site.pages %}
+
+<div class="postTitle">
+    <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+    </div>
+
+{% endfor %}
+ 
+{% for post in site.posts %}
+
+
+  <div class="postTitle">
+  <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+  </div>
+
+{% endfor %}
+</div>

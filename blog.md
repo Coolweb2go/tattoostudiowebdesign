@@ -5,3 +5,4 @@ permalink: /blog/
 tagline: "Humanity is overrated."
 category: "blog"
 ---
+ 

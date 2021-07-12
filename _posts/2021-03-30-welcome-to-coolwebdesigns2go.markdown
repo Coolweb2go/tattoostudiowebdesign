@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Tattoo Studio Web Design Services !"
-date:   2016-03-30 19:45:31 +0530
-categories: jekyll update
+date:   2021-03-30 19:45:31 +0530
+categories: ["blog"]
 ---
 My name is Elle Gamboa and I create custom mobile responsive sites built for tattoo shops, piercing parlors
 & individual artists. Los Angeles web development company offers web design, web development, SEO

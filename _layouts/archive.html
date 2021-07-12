@@ -20,7 +20,7 @@ layout: page
   <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   </div>
   <div class="postExt">
-    {{post.excerpt}}
+ {{ post.excerpt | strip_html | truncate:200}}
   </div>
 </div>
 {% endif %}
