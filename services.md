@@ -3,7 +3,7 @@ layout: page
 title : Services
 permalink: /services/
 ---
-<h2 id="our-services">Web Design &amp; Digital Marketing for <br>Tattoo shops &amp; Piercing Parlors</h2>
+<h2 id="our-services">Web Design  & Digital Marketing for <br>Tattoo shops  & Piercing Parlors</h2>
 <p>Get your website on the front page of Google Search.</p>
 <p><br>
 Tattoo Websites Design, original, custom, professional web development for  a tattoo shop/ parlor , tattoo artist, 
