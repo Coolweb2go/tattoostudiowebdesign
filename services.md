@@ -13,7 +13,7 @@ tattooist or piercing shop. Coolwebdesigns2go delivers search engine optimized w
 <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  - WordPress Web Design
   - Squarespace Web Design
   - Squarespace Web Design
-  - SEO Services&lt;br&gt;
+  - SEO Services
   - Social Media Marketing
   
 </code></pre></div></div>
