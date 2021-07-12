@@ -20,7 +20,8 @@ tattooist or piercing shop. Coolwebdesigns2go delivers search engine optimized w
   
  ```
  
- ## Need an estimate for a new website for your tattoo shop
+ 
+ <h3>Need an estimate for a new website for your tattoo shop</h3>
  
  Fill in the contact form [here](https://coolwebdesigns2go.com/contact/)
 
