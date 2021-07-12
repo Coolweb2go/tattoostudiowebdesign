@@ -4,16 +4,20 @@ title : Services
 permalink: /services/
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
+<h2>Web Design & Digital Marketing fr Tattoo shops & Piercing Parlors</h2>
+<p>Get your website on the front page of Google Search.</p>
 <br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
+Tattoo Websites Design, original, custom, professional web development for  a tattoo shop/ parlor , tattoo artist, 
+tattooist or piercing shop. Coolwebdesigns2go delivers search engine optimized website with high google rank.
+
+<center><p ><strong><span class="manual">WordPress</span>Design</strong></p></center>
 <br>
 <div class="manual-post">
   <div class="manual manual-title">
   <strong>Posting</strong>
   </div>
 <p>  <div class="manual-content">
+  
 
 ```
   - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
@@ -24,18 +28,8 @@ permalink: /services/
     <pre>---
 ```
 
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-\---</pre>
 
-```
-  </div>
-  <div class="example">
 
-    <pre>---
-```
 
 layout: post
 title:  "The One with the Blackout"
