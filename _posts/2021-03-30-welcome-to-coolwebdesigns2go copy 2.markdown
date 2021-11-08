@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test Post 6"
+title:  "We build fast loading site for tattoo shops"
 date:   2021-03-30 19:45:31 +0530
 categories: ["blog"]
 excerpt: "I create custom mobile responsive sites built for tattoo shops, piercing parlors & individual artists... "
